@@ -1,0 +1,25 @@
+header {
+    position: sticky !important;
+}
+
+h1 {
+    text-align: center;
+}
+
+#characters{
+    display: flex;
+    justify-content: space-evenly;
+}
+#characters img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#myMelody h3 {
+    text-align: center;
+}
+
+#Kuromi h3 {
+    text-align: right;
+}
